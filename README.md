@@ -1,1 +1,1 @@
-# Sticky-responzive-navigation
+# Sticky-responsive-navigation
